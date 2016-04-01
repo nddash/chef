@@ -1,0 +1,2 @@
+default["motd"]["author"] = "gourab"
+
